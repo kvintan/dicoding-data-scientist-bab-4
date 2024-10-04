@@ -10,13 +10,6 @@ This project provides a data analysis solution using Jupyter Notebook and a web 
 - [Running the Project](#running-the-project)
   - [Data Analysis](#data-analysis)
   - [Streamlit Web Interface](#streamlit-web-interface)
-- [Dependencies](#dependencies)
-- [Project Structure](#project-structure)
-- [Features](#features)
-- [FAQ](#faq)
-- [Getting Help](#getting-help)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
